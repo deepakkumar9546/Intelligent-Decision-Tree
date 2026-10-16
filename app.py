@@ -213,3 +213,4 @@ with tab_data:
     st.dataframe(data_df, width="stretch")
     st.subheader("Summary statistics")
     st.dataframe(data_df.describe(), width="stretch")
+
